@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/bitcoinrpc/libbitcoinrpc.svg?branch=master)](https://travis-ci.org/bitcoinrpc/libbitcoinrpc)
 
+_This is a branch of https://github.com/gitmarek/libbitcoinrpc/. It has been branched because the original has badly fallen out of date. We are considering whether to make updates to this existing library or to switch to a different library for use with Learning Bitcoin._
+
 A C library for JSON-RPC Bitcoin API.
 
 The library provides basic routines to send RPC queries to a listening
