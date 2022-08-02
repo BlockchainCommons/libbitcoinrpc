@@ -3,6 +3,7 @@
 ## Blockchain Commons Updates
 
 ### Updated SignRawTransaction RPC
+*Released 2022/08/02*
 
 #### Details
 
