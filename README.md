@@ -1,6 +1,6 @@
 # Libbitcoinrpc Updated
 
-### _original by [Marek Miller](https://github.com/gitmarek)
+### _original by [Marek Miller](https://github.com/gitmarek)_
 
 **libbitcoinrpc** is a C library for JSON-RPC Bitcoin API. The library provides basic routines to send RPC queries to a listening
 Bitcoin node, fetch responses and analyse errors.
